@@ -12,11 +12,11 @@ Get Started:
 ```
 #in your env
 
-$ sudo pip install -r requirements.txt
+$ pip install -r requirements.txt
 
-$ ./manage.py migrate
+$ python manage.py migrate
 
-$ ./manage.py runserver
+$ python manage.py runserver
 
 #django admin
 
