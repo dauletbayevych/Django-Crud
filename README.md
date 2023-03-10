@@ -25,3 +25,11 @@ $ python manage.py createsuperuser
 access /admin
 
 ```
+
+### Images
+![jpg](https://github.com/beknurmaxalbayev/Django-Crud/blob/main/1.png?raw=true)
+![jpg](https://github.com/beknurmaxalbayev/Django-Crud/blob/main/2.png?raw=true)
+![png](https://github.com/beknurmaxalbayev/Django-Crud/blob/main/3.png?raw=true)
+![jpg](https://github.com/beknurmaxalbayev/Django-Crud/blob/main/4.png?raw=true)
+![png](https://github.com/beknurmaxalbayev/Django-Crud/blob/main/5.png?raw=true)
+![jpg](https://github.com/beknurmaxalbayev/Django-Crud/blob/main/6.png?raw=true)
